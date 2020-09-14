@@ -13,4 +13,4 @@
 - 📌
 
  
-<img src="html5.gif" alt="HTML5 Icon" style="width:40px;height:40px;">
+ <img src="programming.gif" alt="Computer man" style="width:48px;height:48px;">
