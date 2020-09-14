@@ -13,8 +13,6 @@
 - 📌
 
  
-<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com" style="width:104px;height:142px;">
 
-<button onclick="document.location='default.asp'">HTML Tutorial</button>
 
-<a href="https://www.w3schools.com/html/" title="Go to W3Schools HTML section">Visit our HTML Tutorial</a>
+
