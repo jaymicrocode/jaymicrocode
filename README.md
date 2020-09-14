@@ -15,6 +15,4 @@
  
 <img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com" style="width:104px;height:142px;">
 
-<a href="default.asp">
-<img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
-</a>
+<button onclick="document.location='default.asp'">HTML Tutorial</button>
