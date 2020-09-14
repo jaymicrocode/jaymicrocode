@@ -1,11 +1,6 @@
 ### Hi there My Name is Jay 👋 
 
 
-<p align="center">
- 
- 
- 
- <a href="http://youtube.com">
 
 - 🔭 I’m currently working on Front-End
 - 🌱 I’m currently learning Javascript
