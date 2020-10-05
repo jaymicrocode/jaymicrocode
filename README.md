@@ -15,7 +15,7 @@
 
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
-<img src="https://www.hackadda.com/media/blog/language_small.jpg">
+<img src="https://indeema.com/img/blog/TopProgrammingTools2017_1487174167.jpeg">
 
 
 
