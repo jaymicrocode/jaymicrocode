@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Front-End     
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript  
 - 👯 I’m looking to collaborate on Projeckts
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -11,12 +11,15 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📌
-¸„.-•~¹°”ˆ˜¨ jay github page ¨˜ˆ”°¹~•-.„¸
+
 
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 <img src="https://indeema.com/img/blog/TopProgrammingTools2017_1487174167.jpeg">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 
  <!-- Title -->
@@ -142,6 +145,7 @@
 </a>
   
 
-
+                                     
+                                     
 
   
