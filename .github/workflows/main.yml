@@ -18,4 +18,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: MEDIUM
-          feed_list: "https://medium.com/feed/@username"
+          feed_list: "https://medium.com/feed/@jaycode128"
