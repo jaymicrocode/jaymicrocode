@@ -15,7 +15,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 [youtube]:https://www.youtube.com/channel/UCQVIOybTTMII4ICJey1WSVw
-<!-- MEDIUM:START --> <!-- MEDIUM:END --> and <!-- DEVTO:START --> <!-- DEVTO:END -->
+<!-- MEDIUM:START --> <!-- MEDIUM:END --> and <!-- DEVTO:START -->
+- [Fullstack Developers](https://dev.to/jaymicrocode/fullstack-developers-4df7)
+<!-- DEVTO:END -->
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
