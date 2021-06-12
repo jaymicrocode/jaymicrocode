@@ -145,7 +145,9 @@
 </a>
   
 
-                                     
+<a href="https://github.com/jaymicrocode">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jaymicrocode&layout=compact&theme=radical" />
+</a>                                     
                                      
 
   
