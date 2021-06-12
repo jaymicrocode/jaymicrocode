@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 - 📌
 
-
+<!-- MEDIUM:START --> <!-- MEDIUM:END --> and <!-- DEVTO:START --> <!-- DEVTO:END -->
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
