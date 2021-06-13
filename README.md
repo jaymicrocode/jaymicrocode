@@ -35,6 +35,7 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 <a href="https://www.youtube.com/channel/UCQVIOybTTMII4ICJey1WSVw">youtube !</a>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
  <!-- Title -->
 <h1 align="center">**Hello World** 
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
@@ -197,12 +198,11 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jaymicrocode)  
 
-  
 
                                                                                                                                                  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)                                                                                                         <img src="https://user-images.githubusercontent.com/60737035/121804031-97b50f00-cc44-11eb-8fc9-3b92711e50c6.gif">                          
 
 
   <img src="https://user-images.githubusercontent.com/60737035/121804350-2e360000-cc46-11eb-9fa8-7495a90a9466.gif">   
-                                                                                                                  [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
-                                                                                                                  [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PL2c2SryznlcYev9brcG1W5xGPUqIkqCmM)
+                                                                                                                 
+                                                                                                                 
