@@ -1,6 +1,4 @@
-
-
-# Hi there My Name is Jay 👋 
+  # Hi there My Name is Jay 👋 
 
 <img src="https://user-images.githubusercontent.com/60737035/121804325-18c0d600-cc46-11eb-9c9c-c4b0cfc09807.gif">                  
 
@@ -15,7 +13,6 @@
 - 📌
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [code editor](https://www.youtube.com/watch?v=DvGvesg4xZ0)
 <!-- BLOG-POST-LIST:END -->
 [youtube]:https://www.youtube.com/channel/UCQVIOybTTMII4ICJey1WSVw
 <!-- MEDIUM:START --> <!-- MEDIUM:END --> and <!-- DEVTO:START -->
@@ -202,4 +199,4 @@
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)                                                                                                         <img src="https://user-images.githubusercontent.com/60737035/121804031-97b50f00-cc44-11eb-8fc9-3b92711e50c6.gif">                          
 
 
-  <img src="https://user-images.githubusercontent.com/60737035/121804350-2e360000-cc46-11eb-9fa8-7495a90a9466.gif">     
+  <img src="https://user-images.githubusercontent.com/60737035/121804350-2e360000-cc46-11eb-9fa8-7495a90a9466.gif">                              
