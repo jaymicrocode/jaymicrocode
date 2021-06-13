@@ -1,8 +1,10 @@
-### Hi there My Name is Jay 👋 
 
 
+# Hi there My Name is Jay 👋 
 
-- 🔭 I’m currently working on Front-End     
+<img src="https://user-images.githubusercontent.com/60737035/121804325-18c0d600-cc46-11eb-9c9c-c4b0cfc09807.gif">                  
+
+- 🔭 I’m currently working on Front-End    
 - 🌱 I’m currently learning Javascript  
 - 👯 I’m looking to collaborate on Projeckts
 - 🤔 I’m looking for help with ...
@@ -11,13 +13,17 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📌
-# Blog posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 [youtube]:https://www.youtube.com/channel/UCQVIOybTTMII4ICJey1WSVw
 <!-- MEDIUM:START --> <!-- MEDIUM:END --> and <!-- DEVTO:START -->
 - [Fullstack Developers](https://dev.to/jaymicrocode/fullstack-developers-4df7)
 <!-- DEVTO:END -->
+
+## Latest YouTube 📼 
+<!--YOUTUBE:START-->
+<!-- YOUTUBE:END-->
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
@@ -26,7 +32,7 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
-
+<a href="https://www.youtube.com/channel/UCQVIOybTTMII4ICJey1WSVw">youtube !</a>
  <!-- Title -->
 <h1 align="center">**Hello World** 
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
@@ -39,7 +45,7 @@
   
   <!-- Social Network -->
 <h1 align="center">
-<a href="https://www.instagram.com">
+<a href="https://www.instagram.com/jaycodepro">
   <img align="center" 
        alt=" Instagram" 
        width="22px" 
@@ -90,7 +96,7 @@
 <p><H3 align="center"><strong> Technical Skills: 
 
   </strong></p>
-  
+  <img src="https://user-images.githubusercontent.com/60737035/121805042-a7832200-cc49-11eb-91d5-7cf209eb83a5.png">                  
 
  <code><img height="40" src="https://user-images.githubusercontent.com/60737035/121782778-84099a00-cbab-11eb-8a9a-253d6b7dc7eb.png"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
@@ -157,7 +163,20 @@
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaymicrocode)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on this page. 
+-💡  🔭 I’m currently working on this page. 🛠️
+
+
+
+
+#### Get in touch with me.📧
+
+
+
+
+
+
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jaymicrocode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/jaymicrocode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/jay82600435)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCQVIOybTTMII4ICJey1WSVw)  
@@ -166,17 +185,20 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaymicrocode)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaymicrocode)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaymicrocode&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jaymicrocode)  
 
-![GitHub metrics](https://metrics.lecoq.io/jaymicrocode)  
+ 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jaymicrocode)  
 
-![Profile views](https://gpvc.arturio.dev/jaymicrocode)  
+  
 
                                                                                                                                                  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                                             
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)                                                                                                         <img src="https://user-images.githubusercontent.com/60737035/121804031-97b50f00-cc44-11eb-8fc9-3b92711e50c6.gif">                          
+
+
+  <img src="https://user-images.githubusercontent.com/60737035/121804350-2e360000-cc46-11eb-9fa8-7495a90a9466.gif">     
