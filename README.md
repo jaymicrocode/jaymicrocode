@@ -28,7 +28,7 @@
 
 
  <!-- Title -->
-<h1 align="center">Hello World 
+<h1 align="center">**Hello World** 
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="30px">
   </h2></h1>
@@ -177,3 +177,6 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jaymicrocode)  
 
 ![Profile views](https://gpvc.arturio.dev/jaymicrocode)  
+
+                                                                                                                                                 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                                             
