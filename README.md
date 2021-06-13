@@ -15,6 +15,7 @@
 - 📌
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [code editor](https://www.youtube.com/watch?v=DvGvesg4xZ0)
 <!-- BLOG-POST-LIST:END -->
 [youtube]:https://www.youtube.com/channel/UCQVIOybTTMII4ICJey1WSVw
 <!-- MEDIUM:START --> <!-- MEDIUM:END --> and <!-- DEVTO:START -->
