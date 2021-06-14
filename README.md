@@ -1,6 +1,7 @@
-  # Hi there My Name is Jay 👋 
+ # Hi there My Name is Jay  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  width="30px"> 
+     
 
-<img src="https://user-images.githubusercontent.com/60737035/121804325-18c0d600-cc46-11eb-9c9c-c4b0cfc09807.gif">                  
+               
 
 - 🔭 I’m currently working on Front-End    
 - 🌱 I’m currently learning Javascript  
@@ -39,14 +40,11 @@
 <a href="https://www.youtube.com/channel/UCQVIOybTTMII4ICJey1WSVw">youtube !</a>
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
  <!-- Title -->
-<h1 align="center">**Hello World** 
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-       width="30px">
-  </h2></h1>
+
 
 
 <!-- Quote -->
-<p align="center">I would like to change the World but they won't give me the source code
+
   
   <!-- Social Network -->
 <h1 align="center">
@@ -85,15 +83,12 @@
        src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
   </a>
 </h1>
-
-
-
-
+<img src="https://user-images.githubusercontent.com/60737035/121833937-c9be8380-cccd-11eb-8d82-76a80ca114f7.png">
 <!-- Background -->
 
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
+
 
 &nbsp;
 
@@ -101,9 +96,9 @@
 <p><H3 align="center"><strong> Technical Skills: 
 
   </strong></p>
-  <img src="https://user-images.githubusercontent.com/60737035/121805042-a7832200-cc49-11eb-91d5-7cf209eb83a5.png">                  
+                
 
- <img src="https://user-images.githubusercontent.com/60737035/121833937-c9be8380-cccd-11eb-8d82-76a80ca114f7.png">
+ 
   
  <code><img height="40" src="https://user-images.githubusercontent.com/60737035/121782778-84099a00-cbab-11eb-8a9a-253d6b7dc7eb.png"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
@@ -156,19 +151,13 @@
       <div align="center">
     </p>
     
-<a href="https://github.com/jaymicrocode?tab=repositories&type=source">
-  <img align="center" \
-       src="https://camo.githubusercontent.com/76ca66ef0aebadf08cad14b8ee0f22fa754d59672c80051afc267c7dfff8f55f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d7261646963616c" 
-       alt='jay's favorite languages" />
-</a>
+
   
 
-<a href="https://github.com/jaymicrocode">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jaymicrocode&layout=compact&theme=radical" />
-</a>                                     
+                      
                                      
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaymicrocode)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaymicrocode)](https://github.com/jaymicrocode/github-readme-stats)
 
 -💡  🔭 I’m currently working on this page. 🛠️
 
@@ -194,7 +183,7 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaymicrocode&show_icons=true&count_private=true)  
+ 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jaymicrocode)  
 
@@ -204,9 +193,12 @@
 
 
                                                                                                                                                  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)                                                                                                         <img src="https://user-images.githubusercontent.com/60737035/121804031-97b50f00-cc44-11eb-8fc9-3b92711e50c6.gif">                          
+                                                                           
 
 
-  <img src="https://user-images.githubusercontent.com/60737035/121804350-2e360000-cc46-11eb-9fa8-7495a90a9466.gif">   
+  <img src="https://user-images.githubusercontent.com/60737035/121804350-2e360000-cc46-11eb-9fa8-7495a90a9466.gif">                                                                                                         <img src="https://user-images.githubusercontent.com/60737035/121804031-97b50f00-cc44-11eb-8fc9-3b92711e50c6.gif">                          
+
+
+ 
                                                                                                                  
                                                                                                                  
