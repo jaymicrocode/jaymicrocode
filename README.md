@@ -16,7 +16,9 @@
 - [code editor](https://www.youtube.com/watch?v=DvGvesg4xZ0)
 <!-- BLOG-POST-LIST:END -->
 [youtube]:https://www.youtube.com/channel/UCQVIOybTTMII4ICJey1WSVw
-<!-- MEDIUM:START --> <!-- MEDIUM:END --> and <!-- DEVTO:START -->
+<!-- MEDIUM:START -->
+- [Fullstack developer.](https://jaycode128.medium.com/fullstack-developer-ccefcc62dd4?source=rss-7cafc72efed------2)
+<!-- MEDIUM:END --> and <!-- DEVTO:START -->
 - [Fullstack Developers](https://dev.to/jaymicrocode/fullstack-developers-4df7)
 <!-- DEVTO:END -->
 
