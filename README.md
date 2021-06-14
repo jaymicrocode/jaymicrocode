@@ -27,7 +27,7 @@
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
+
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 <img src="https://indeema.com/img/blog/TopProgrammingTools2017_1487174167.jpeg">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
