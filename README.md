@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Front-End Developer from The Netherlands.</h3>
 
 
-## 🙋‍♂️ About Me
+##    <img src="https://img.icons8.com/color/48/000000/designer-skin-type-5.png"/>        About Me
 
 - 🔭 I’m currently working on **[Javascript]**
 
@@ -63,6 +63,9 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
      <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+       <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/>
+          <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> 
+               <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/selenium-test-automation.png"/>
      <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
@@ -71,6 +74,7 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
+                    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/webpack.png"/>
          <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/></a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
