@@ -38,6 +38,8 @@
 
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
@@ -122,3 +124,9 @@
     <img src="https://komarev.com/ghpvc/?username=jaymicrocode">
 </a>
 <a href="https://github.com/jaymicrocode?tab=followers"><img src="https://img.shields.io/github/followers/jaymicrocode?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
+
+
+
