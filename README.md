@@ -24,7 +24,7 @@
 
 
 
-
+![Metrics](https://metrics.lecoq.io/jaymicrocode)
 
 
 ## Blog posts 🌐
