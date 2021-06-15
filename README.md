@@ -129,4 +129,4 @@
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 
 
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/jaymicrocode/github-readme-quotes)
