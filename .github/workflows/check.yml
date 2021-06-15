@@ -1,0 +1,68 @@
+name: "🎭 Comment reactions"
+cost: 1 GraphQL request per 100 issues and issues comments fetched
+category: github
+index: 8
+supports:
+  - user
+inputs:
+
+  # Enable or disable plugin
+  plugin_reactions:
+    description: Display average issue comments reactions
+    type: boolean
+    default: no
+
+  # Maximum number of issue comments to parse
+  plugin_reactions_limit:
+    description: Maximum number of issue comments to parse
+    type: number
+    default: 200
+    min: 0
+    max: 1000
+
+  # Maximum number of issues and pull requests opened to parse
+  plugin_reactions_limit_issues:
+    description: Maximum number of issues and pull requests opened to parse
+    type: number
+    default: 100
+    min: 0
+    max: 1000
+
+  # Filter reactions by issue comments age
+  # Set to 0 to disable age filtering
+  plugin_reactions_days:
+    description: Maximum issue comments age
+    type: number
+    default: 0
+    min: 0
+
+  # Reaction display mode.
+  # Use this option to fill gauges using:
+  # - "absolute" to use total reactions count
+  # - "relative" to use highest reaction count
+  plugin_reactions_display:
+    description: Display mode
+    type: string
+    default: absolute
+    values:
+      - absolute
+      - relative
+
+  # Additional details
+  # If multiple values are specified, emphasis will be set on first value
+  plugin_reactions_details:
+    description: Additional details
+    type: array
+    format: comma-separated
+    default: ""
+    example: count, percentage
+    values:
+      - count
+      - percentage
+
+  # Ignored users (useful to ignore bots users)
+  plugin_reactions_ignored:
+    description: Users to ignore
+    type: array
+    format: comma-separated
+    default: github-actions[bot], dependabot[bot], dependabot-preview[bot]
