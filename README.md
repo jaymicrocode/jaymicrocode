@@ -18,6 +18,14 @@
 
 - ⚡ Fun fact **I play Drums and go to the GYM very often.**
 
+[![Latest blog post workflow](https://github.com/jaymicrocode/jaymicrocode/actions/workflows/main.yml/badge.svg)](https://github.com/jaymicrocode/jaymicrocode/actions/workflows/main.yml)
+
+[![Latest Youtube Videos](https://github.com/jaymicrocode/jaymicrocode/actions/workflows/youtube.yml/badge.svg)](https://github.com/jaymicrocode/jaymicrocode/actions/workflows/youtube.yml)
+
+
+
+
+
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
