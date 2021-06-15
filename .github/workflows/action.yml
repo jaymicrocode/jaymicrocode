@@ -13,7 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: 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
+          token: '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'
 
           # Options
           user: jaymicrocode
