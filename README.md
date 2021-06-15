@@ -27,7 +27,7 @@
 
 
 
-## Blog posts
+## Blog posts 🌐
 <!-- BLOG-POST-LIST:START -->
 - [code editor](https://www.youtube.com/watch?v=DvGvesg4xZ0)
 <!-- BLOG-POST-LIST:END -->
@@ -38,7 +38,8 @@
 - [Fullstack Developers](https://dev.to/jaymicrocode/fullstack-developers-4df7)
 <!-- DEVTO:END -->
 
-## Latest YouTube 📼 
+## Spotify Playing  🎧
+
 <!--YOUTUBE:START-->
 <!-- YOUTUBE:END-->
 
