@@ -16,7 +16,7 @@
 
 
 
-- ⚡ Fun fact **I play drums and go to the GYM very often.**
+- ⚡ Fun fact **I play Drums and go to the GYM very often.**
 
 
 ## Blog posts
