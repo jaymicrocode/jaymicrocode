@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/60737035/121957322-89f5ab80-cd62-11eb-8a0c-24d08d00cf9b.gif">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jay</h1>
-<h3 align="center">I'm a passionate Front- End Developer from The Netherlands.</h3>
+<h3 align="center">I'm a passionate Front-End Developer from The Netherlands.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -16,7 +16,7 @@
 
 
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play drums and go to the GYM very often.**
 
 
 ## Blog posts
