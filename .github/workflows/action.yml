@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         # Options
-          user: jaymicrocode
+         
 
           # Options
           user: jaymicrocode
