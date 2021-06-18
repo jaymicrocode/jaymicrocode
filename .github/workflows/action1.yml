@@ -5,7 +5,7 @@
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
          
-          plugin_stock_token: ${{ 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 
+        
  }}
           output_action: pull-request
           delay: 120
