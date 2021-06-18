@@ -29,7 +29,7 @@
 ![Metrics](https://metrics.lecoq.io/jaymicrocode)
 
 
-## Blog posts 🌐
+## Blog posts 🌐  
 <!-- BLOG-POST-LIST:START -->
 - [code editor](https://www.youtube.com/watch?v=DvGvesg4xZ0)
 <!-- BLOG-POST-LIST:END -->
