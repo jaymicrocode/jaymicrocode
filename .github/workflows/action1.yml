@@ -1,0 +1,16 @@
+ # 💹 Stock prices plugin
+
+      # Display RSS feed
+      - name: 💹 Stock prices plugin
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+          plugin_stock_symbol: TSLA
+          plugin_stock_token: ${{ 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 
+ }}
+          output_action: pull-request
+          delay: 120
+        with:
+          filename: metrics.plugin.stock.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_stock: yes
