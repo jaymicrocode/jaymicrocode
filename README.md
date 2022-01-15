@@ -150,5 +150,5 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/jaymicrocode/github-readme-quotes)
                    
              
-                   
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jaymicrocode/jaymicrocode/blob/master/devcard.svg" width="400" alt="jaymicrocode's Dev Card"/></a>                 
                
