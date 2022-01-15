@@ -126,7 +126,7 @@
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaymicrocode)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaymicrocode&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
