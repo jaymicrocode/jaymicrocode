@@ -38,6 +38,7 @@
 <!-- BLOG-POST-LIST:END -->
 [youtube]:https://www.youtube.com/channel/UCQVIOybTTMII4ICJey1WSVw
 <!-- MEDIUM:START -->
+- [Learning new things.](https://jaycode128.medium.com/learning-new-things-c7368f0d57d7?source=rss-7cafc72efed------2)
 - [Fullstack developer.](https://jaycode128.medium.com/fullstack-developer-ccefcc62dd4?source=rss-7cafc72efed------2)
 <!-- MEDIUM:END --> and <!-- DEVTO:START -->
 - [Fullstack Developers](https://dev.to/jaymicrocode/fullstack-developers-4df7)
